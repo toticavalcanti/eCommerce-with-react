@@ -1,6 +1,7 @@
 export default {
   products: [
     {
+      _id: '1',
       name: 'Slim Shirt',
       category: 'Shirts',
       image: '/images/slim-shirt-01.jpg',
@@ -11,6 +12,7 @@ export default {
     },
 
     {
+      _id: '2',
       name: 'Fit Shirt',
       category: 'Shirts',
       image: '/images/fit-shirt-01.jpg',
@@ -21,6 +23,7 @@ export default {
     },
 
     {
+      _id: '3',
       name: 'Best Pants',
       category: 'Pants',
       image: '/images/pants-01.jpg',
@@ -30,6 +33,7 @@ export default {
       numReviews: 2
     },
     {
+      _id: '4',
       name: 'Slim Shirt',
       category: 'Shirts',
       image: '/images/slim-shirt-02.jpg',
@@ -40,6 +44,7 @@ export default {
     },
 
     {
+      _id: '5',
       name: 'Fit Shirt',
       category: 'Shirts',
       image: '/images/fit-shirt-02.jpg',
@@ -50,6 +55,7 @@ export default {
     },
 
     {
+      _id: '6',
       name: 'Best Pants',
       category: 'Pants',
       image: '/images/pants-02.jpg',
