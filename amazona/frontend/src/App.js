@@ -1,9 +1,8 @@
 import React from 'react';
-import {BrowserRouter, Route, Link} from 'react-router-dom';
+import { BrowserRouter, Route, Link } from 'react-router-dom'
 import './App.css';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductScreen';
-
 
 function App() {
 
@@ -20,7 +19,7 @@ function App() {
           <div className="brand">
             <button onClick={openMenu}>
               &#9776;
-            </button>
+        </button>
             <Link to="/" >amazonas</Link>
           </div>
           <div className="header-links">
@@ -46,14 +45,14 @@ function App() {
           <div className="content">
             <Route path="/product/:id" component={ProductScreen} />
             <Route path="/" exact={true} component={HomeScreen} />
-            
+
 
           </div>
 
         </main>
         <footer className="footer">
           All right reserved.
-      </footer>
+    </footer>
       </div>
     </BrowserRouter>
   );

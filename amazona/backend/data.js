@@ -8,7 +8,8 @@ export default {
       price: 60.00,
       brand: 'Nike',
       rating: 4.5,
-      numReviews: 10
+      numReviews: 10,
+      countInStock: 0,
     },
 
     {
@@ -19,7 +20,8 @@ export default {
       price: 50.00,
       brand: 'Nike',
       rating: 4.2,
-      numReviews: 5
+      numReviews: 5,
+      countInStock: 4,
     },
 
     {
@@ -30,7 +32,8 @@ export default {
       price: 70.00,
       brand: 'Nike',
       rating: 4.0,
-      numReviews: 2
+      numReviews: 2,
+      countInStock: 5,
     },
     {
       _id: '4',
@@ -40,7 +43,8 @@ export default {
       price: 65.00,
       brand: 'Nike',
       rating: 4.5,
-      numReviews: 10
+      numReviews: 10,
+      countInStock: 6,
     },
 
     {
@@ -51,7 +55,8 @@ export default {
       price: 55.00,
       brand: 'Nike',
       rating: 4.2,
-      numReviews: 5
+      numReviews: 5,
+      countInStock: 3,
     },
 
     {
@@ -62,7 +67,8 @@ export default {
       price: 75.00,
       brand: 'Nike',
       rating: 4.0,
-      numReviews: 2
+      numReviews: 2,
+      countInStock: 6,
     }
   ]
 }
