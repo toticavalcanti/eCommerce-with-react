@@ -1,8 +1,8 @@
 This project is a like amazon ecommerce site, a amazon layout clone.
-[![Products][products-screenshot]](https://iili.io/2go6qN.png)
+![alt text](https://iili.io/2go6qN.png)
 
 
-[![Admin][create-product]](https://iili.io/2gzeDJ.png)
+![alt text](https://iili.io/2gzeDJ.png)
 
 
 ## Available Scripts
