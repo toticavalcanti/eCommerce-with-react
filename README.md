@@ -1,7 +1,10 @@
 This project is a like amazon ecommerce site, a amazon layout clone.
+<br />
+<br />
 ![alt text](https://iili.io/2go6qN.png)
 
-
+<br />
+<br />
 ![alt text](https://iili.io/2gzeDJ.png)
 
 
