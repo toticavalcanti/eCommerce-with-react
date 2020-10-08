@@ -1,6 +1,13 @@
 This project is a like amazon ecommerce site, a amazon layout clone.
 <br />
+<br />
 ![Test Image 3](https://iili.io/2go6qN.png)
+
+<br />
+<br />
+![Test Image 3](https://iili.io/2gzeDJ.png)
+
+
 
 ## Available Scripts
 
