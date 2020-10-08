@@ -1,9 +1,9 @@
 This project is a like amazon ecommerce site, a amazon layout clone.
 ![Test Image 3](https://iili.io/2go6qN.png)
-
+<br />
 ## Available Scripts
 
-In the project directory, you can run in frontend and backend:
+In the project directory, you can run in frontend and backend folder:
 
 ### `yarn start`
 
