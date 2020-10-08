@@ -1,11 +1,5 @@
 This project is a like amazon ecommerce site, a amazon layout clone.
-// method 1
-<img
-src=“https://iili.io/2go6qN.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Test Image 3](https://iili.io/2go6qN.png)
 
 ## Available Scripts
 
