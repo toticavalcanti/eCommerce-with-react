@@ -1,6 +1,6 @@
 # This project is a like amazon ecommerce site
 
-## Amazon layout clone.
+## Amazon layout clone
 ![alt text](https://iili.io/2go6qN.png)
 
 ## Admin
